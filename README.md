@@ -6,7 +6,7 @@ Quick and simple slides for the Private Prep dashboard <-> director call in Feb 
 
 ## gh-pages site
 
-https://privateprep.github.io/dashboard-directors-feb-2019/
+https://privateprep.github.io/dashboard-simple-slides
 
 ## Play around
 
