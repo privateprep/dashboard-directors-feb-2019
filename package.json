@@ -1,17 +1,17 @@
 {
-  "name": "directors_dashboard_feb_nineteen",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Dan Powell <dan@gobloom.io>",
-  "license": "MIT",
-  "dependencies": {
-    "gh-pages": "^2.0.1",
-    "mdx-deck": "^1.0.3"
-  },
-  "scripts": {
-    "start": "mdx-deck deck.mdx",
-    "build": "mdx-deck build deck.mdx",
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d dist"
-  }
+	"name": "dashboard_simple_slides",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Dan Powell <dan@gobloom.io>",
+	"license": "MIT",
+	"dependencies": {
+		"gh-pages": "^2.0.1",
+		"mdx-deck": "^1.0.3"
+	},
+	"scripts": {
+		"start": "mdx-deck deck.mdx",
+		"build": "mdx-deck build deck.mdx",
+		"predeploy": "yarn run build",
+		"deploy": "gh-pages -d dist"
+	}
 }
